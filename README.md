@@ -1,6 +1,6 @@
 # Team APT Demo
 
-This Project was built with a Webpack based frontend ### Installation
+This Project was built with a Webpack based frontend
 
 ## How to configure locally
 
